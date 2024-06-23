@@ -1,8 +1,7 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://static.requarks.io/logo/wikijs-full-darktheme.svg">
-  <img alt="Wiki.js" src="https://static.requarks.io/logo/wikijs-full.svg" width="600">
+  <img alt="facexsearch" src="https://www.facexsearch.com/logo2-raw.PNG" width="600">
 </picture>
 
 
