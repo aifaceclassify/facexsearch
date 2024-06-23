@@ -19,3 +19,19 @@
 
 ## 🛠️ 快速上手
 1. 添加分组
+![添加分组](https://www.facexsearch.com/addGroup.png "")
+
+
+2. 分组管理
+![添加分组3](https://www.facexsearch.com/addGroup3.png "")
+
+
+
+
+3. 选择人脸
+![添加分组9](https://www.facexsearch.com/addGroup9.png "")
+
+4. 导入图片集获取识别结果
+![导入1](https://www.facexsearch.com/new_input.png "")
+
+5. 导出结果
